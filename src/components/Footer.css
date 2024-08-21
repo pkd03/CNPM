@@ -1,0 +1,33 @@
+.footer {
+    background-color: #f8f9fa;
+    padding: 20px 0;
+    font-size: 14px;
+}
+
+.footer .col {
+    margin-bottom: 20px;
+}
+
+.footer a {
+    text-decoration: none;
+    color: #007bff;
+}
+
+.footer a:hover {
+    text-decoration: underline;
+}
+
+.footer .hotline {
+    font-weight: bold;
+}
+
+.footer .certification {
+    margin-top: 20px;
+}
+
+
+@media (max-width: 575.98px) {
+    .footer {
+        display: none;
+    }
+}

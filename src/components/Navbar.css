@@ -1,0 +1,56 @@
+@media (max-width: 575.98px) {
+    .navbar-mobile-blue {
+        background-color: rgb(27, 168, 255) !important;
+    }
+
+    .search-button,
+    .navbar-mobile {
+        display: none;
+    }
+
+
+    .gio-hang {
+        outline-color: #fff;
+        color: #fff;
+    }
+}
+
+.totnhanh{
+    text-emphasis-color: blue;
+}
+
+.navbar {
+    background-color: rgb(148, 142, 142);
+}
+
+
+.search-bar {
+    border-color: #fff;
+
+}
+
+.search-button {
+    white-space: nowrap;
+}
+
+.form-container {
+    display: flex;
+    justify-content: center;
+    flex-grow: 1;
+    /* padding: 0.5rem; */
+}
+
+.search-form {
+    display: flex;
+    /* justify-content: center; */
+    /* align-items: center; */
+    /* width: 75%; */
+    border: 2px solid #a79f9f;
+    /* Add a border around the form */
+    border-radius: 5px;
+    /* Optional: Add border radius for rounded corners */
+    padding: 5px;
+    /* Add padding inside the form */
+    background-color: #fff;
+    /* Optional: Add background color */
+}
